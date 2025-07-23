@@ -22,7 +22,7 @@
 
 ## 📸 Screenshots
 
-![screenshot](images/screenshot1.png)
+![screenshot](images/screen1.png)
 
 ## 📁 How to Run
 
@@ -35,6 +35,5 @@
 - Name: Niranjan Surve
 - Email: niranjan@example.com
 - GitHub: [@niranjansurve](https://github.com/niranjansurve)
-- LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
 
 ---
