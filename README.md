@@ -22,7 +22,7 @@
 
 ## 📸 Screenshots
 
-![screenshot](images/screen1.png)
+![screenshot](Screenshot 2025-07-23 194112.png)
 
 ## 📁 How to Run
 
