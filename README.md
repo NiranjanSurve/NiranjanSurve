@@ -8,7 +8,6 @@
 - 📅 5-day forecast with icons
 - 🔍 AI Chatbot weather search
 - 📰 Live weather-related news
-- 🎵 Background music
 - 🌈 Dynamic background change by weather
 - 🔒 Secure backend with PHP
 
@@ -18,7 +17,6 @@
 - HTML, CSS, JavaScript
 - OpenWeatherMap API
 - News API
-- OpenAI Chat Integration (Optional)
 
 ## 📸 Screenshots
 
