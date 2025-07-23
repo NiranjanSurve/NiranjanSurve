@@ -24,12 +24,6 @@
 
 ![screenshot](Screenshot.png)
 
-## 📁 How to Run
-
-1. Clone this repo
-2. Add your API keys in `weather_api.php`
-3. Run on localhost using XAMPP/WAMP
-
 ## 📩 Contact
 
 - Name: Niranjan Surve
