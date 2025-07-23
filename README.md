@@ -1,4 +1,4 @@
----
+# 👋 Hi, I'm Niranjan Surve
 
 ## 👨‍💻 About Me
 
@@ -16,7 +16,7 @@ I’m **Niranjan Surve**, a passionate **MCA student** exploring the world of **
 - Secure Web Architecture
 - Cloud Deployment
 - Big Data Analysis
-- Android Devlopment 
+- Android Development
 
 💬 Ask me about:
 - Building smart web apps
@@ -27,19 +27,18 @@ I’m **Niranjan Surve**, a passionate **MCA student** exploring the world of **
 
 ---
 
-
 # 🌤 WeatherNow
 
-**Smart Weather Forecast App** built using PHP, OpenWeatherMap API, and JavaScript.
+**Smart Weather Forecast App** built using PHP, OpenWeatherMap API, and JavaScript. This app provides real-time weather data, forecasts, weather-based backgrounds, and even an AI-based chatbot for asking natural weather queries.
 
 ## 🔧 Features
 
 - 🌐 Real-time weather updates
-- 📅 5-day forecast with icons
-- 🔍 AI Chatbot weather search
-- 📰 Live weather-related news
-- 🌈 Dynamic background change by weather
-- 🔒 Secure backend with PHP
+- 📅 5-day forecast with icons & temperatures
+- 🤖 AI Chatbot for natural language weather questions
+- 📰 Weather-related news updates
+- 🌈 Dynamic background change based on weather
+- 🔒 Secure backend using PHP session handling
 
 ## 🚀 Technologies Used
 
@@ -47,15 +46,22 @@ I’m **Niranjan Surve**, a passionate **MCA student** exploring the world of **
 - HTML, CSS, JavaScript
 - OpenWeatherMap API
 - News API
+- OpenAI API (for chatbot)
 
 ## 📸 Screenshots
 
-![screenshot](Screenshot.png)
-
-## 📩 Contact
-
-- Name: Niranjan Surve
-- Email: niranjan@example.com
-- GitHub: [@niranjansurve](https://github.com/niranjansurve)
+![WeatherNow Screenshot](Screenshot.png)
 
 ---
+
+## 📬 Contact Me
+
+- 📛 Name: Niranjan Surve  
+- 📧 Email: niranjan@example.com  
+- 💼 GitHub: [@niranjansurve](https://github.com/niranjansurve)  
+- 🔗 LinkedIn: [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)
+
+---
+
+> *Thanks for visiting my profile! Feel free to check out my project and connect with me!* 🚀
+
