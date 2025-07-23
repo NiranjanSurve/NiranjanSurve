@@ -1,16 +1,40 @@
-## Hi there 👋
+# 🌤 WeatherNow
 
-<!--
-**NiranjanSurve/NiranjanSurve** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Smart Weather Forecast App** built using PHP, OpenWeatherMap API, and JavaScript.
 
-Here are some ideas to get you started:
+## 🔧 Features
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌐 Real-time weather updates
+- 📅 5-day forecast with icons
+- 🔍 AI Chatbot weather search
+- 📰 Live weather-related news
+- 🎵 Background music
+- 🌈 Dynamic background change by weather
+- 🔒 Secure backend with PHP
+
+## 🚀 Technologies Used
+
+- PHP
+- HTML, CSS, JavaScript
+- OpenWeatherMap API
+- News API
+- OpenAI Chat Integration (Optional)
+
+## 📸 Screenshots
+
+![screenshot](images/screenshot1.png)
+
+## 📁 How to Run
+
+1. Clone this repo
+2. Add your API keys in `weather_api.php`
+3. Run on localhost using XAMPP/WAMP
+
+## 📩 Contact
+
+- Name: Niranjan Surve
+- Email: niranjan@example.com
+- GitHub: [@niranjansurve](https://github.com/niranjansurve)
+- LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
+
+---
