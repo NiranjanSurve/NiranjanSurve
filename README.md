@@ -32,7 +32,7 @@ I’m **Niranjan Surve**, a passionate **MCA student** exploring the world of **
 **Smart Weather Forecast App** built using PHP, OpenWeatherMap API, and JavaScript. This app provides real-time weather data, forecasts, weather-based backgrounds, and even an AI-based chatbot for asking natural weather queries.
 
 ## 🔧 Features
-
+- https://www.linkedin.com/posts/activity-7353442777940041729-A8aO?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFSmeXkB_gUY8_va01JAixsop7xnvTqBnuo
 - 🌐 Real-time weather updates
 - 📅 5-day forecast with icons & temperatures
 - 🤖 AI Chatbot for natural language weather questions
